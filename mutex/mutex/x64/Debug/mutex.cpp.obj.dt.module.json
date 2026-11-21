@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "mutex\\x64\\Debug\\mutex.obj",
+            "outputs": [
+                "mutex\\x64\\Debug\\mutex.cpp.obj.dt.module.json",
+                "mutex\\x64\\Debug\\mutex.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
